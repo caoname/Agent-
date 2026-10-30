@@ -1,0 +1,4 @@
+chat_model_name: qwen3.8-flash
+embedding_model_name: qwen3-embedding:4b
+base_url: https://ws-a6ri4xf3p28cv81k.cn-beijing.maas.aliyuncs.com/compatible-mode/v1
+api_key: qwen_API_KEY
